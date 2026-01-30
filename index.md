@@ -15,9 +15,9 @@ Quick access to frequently used sites.
 <div class="card">
 <h3>Personal</h3>
 <ul>
-<li><a href="#">Email</a></li>
-<li><a href="#">Calendar</a></li>
-<li><a href="#">News</a></li>
+<a href="#">Email</a> ::
+<a href="#">Calendar</a> ::
+<a href="#">News</a>
 </ul>
 </div>
 
