@@ -1,0 +1,58 @@
+/* ===== Base Page ===== */
+
+body {
+    background-color: #0f172a;   /* deep blue/black */
+    color: #e2e8f0;              /* soft light text */
+    font-family: system-ui, -apple-system, sans-serif;
+    margin: 40px;
+  }
+  
+  /* ===== Headings ===== */
+  
+  h1, h2, h3 {
+    color: #f1f5f9;
+  }
+  
+  /* ===== Links ===== */
+  
+  a {
+    color: #38bdf8;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* ===== Layout ===== */
+  
+  .columns {
+    display: flex;
+    gap: 24px;
+    margin-top: 20px;
+  }
+  
+  .column {
+    flex: 1;
+  }
+  
+  /* ===== Cards ===== */
+  
+  .card {
+    background: #1e293b;
+    padding: 18px;
+    border-radius: 12px;
+    margin-bottom: 18px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.4);
+  }
+  
+  /* ===== Lists ===== */
+  
+  ul {
+    padding-left: 18px;
+  }
+  
+  li {
+    margin-bottom: 6px;
+  }
+  
